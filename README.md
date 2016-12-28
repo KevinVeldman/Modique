@@ -7,6 +7,7 @@ Increase the findability of the store amongst an adult audience
 - [x] Basic index.html page mock up
 - [ ] Downloadable for terms & conditions
 - [ ] Mail button
+- [ ] Smaller device support
 - [ ] Hovers for menu items
 - [ ] Finishing basic functionality of index.html
 - [ ] Contact page mockup
