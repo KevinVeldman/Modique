@@ -5,6 +5,8 @@ This is a website for a clothing store located in Westerbork, The Netherlands.
 Increase the findability of the store amongst an adult audience
 ## Task list
 - [x] Basic index.html page mock up
+- [ ] Downloadable for terms & conditions
+- [ ] Hovers for menu items
 - [ ] Finishing basic functionality of index.html
 - [ ] Contact page mockup
 - [ ] ...
