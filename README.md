@@ -8,6 +8,7 @@ Increase the findability of the store amongst an adult audience
 - [ ] Finishing basic functionality of index.html
 - [ ] Contact page mockup
 - [ ] ...
+
 ## Contributors
 Kevin Veldman 
 Website: https://www.kevinpv.com
