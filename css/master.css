@@ -11,7 +11,10 @@
   background-position: center;
 }
 .contentText{
-  margin-top: 30px;
+  padding-bottom: 30px;
+  padding-top:30px;
+  background-color: rgba(12, 9, 10, 1);
+  color: rgba(178, 178, 216, 1);
 }
 .col-lg-5{
   padding: 0;
