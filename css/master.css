@@ -3,6 +3,12 @@
   padding: 0;
   font-family: 'Montserrat', sans-serif;
 }
+body {
+  overflow-x:hidden;
+}
+a{
+  text-decoration: none;
+}
 #header{
   background-image: url(https://static.pexels.com/photos/33319/fashion-beauty-model-portrait.jpg);
   color: white;
@@ -19,16 +25,22 @@
 .col-lg-5{
   padding: 0;
 }
+.navStatic{
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  left:0px;
+  z-index: 10000;
+}
 .headText{
   margin-top: 200px;
-  border: 2px solid white;
-  background-color: black;
 }
-.headText h1{
+ h1{
   line-height: 50px;
-  font-size: 50px;
   margin:0;
   opacity: 1;
+  border: 2px solid white;
+  background-color: black;
 }
 #map {
        width: 100%;
@@ -45,6 +57,18 @@
   padding-bottom: 20px;
 
   color: #b2b2d8;
+}
+.links{
+  line-height: 50px;
+}
+.links a{
+  color: #6666b2;
+  -webkit-transition: color 1s; /* Safari */
+    transition: color 1s;
+    text-decoration: none;
+}
+.links a:hover{
+  color:white;
 }
 table{
   width:100%;
@@ -83,6 +107,8 @@ table{
 #navigator.navbar-default .navbar-nav>li>a {
     color: rgba(178, 178, 216, 1);
     background-color: rgba(248, 248, 248, 0);
+    -webkit-transition: color 1s; /* Safari */
+      transition: color 1s;
 }
 #navigator.navbar-default .navbar-nav>li>a:hover,
 #navigator.navbar-default .navbar-nav>li>a:focus {
