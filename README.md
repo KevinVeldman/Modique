@@ -5,14 +5,14 @@ This is a website for a clothing store located in Westerbork, The Netherlands.
 Increase the findability of the store amongst an adult audience
 ## Task list
 - [x] Basic index.html page mock up
-- [ ] Downloadable for terms & conditions
+- [x] Downloadable for terms & conditions
 - [ ] Mail button
-- [ ] Smaller device support
-- [ ] Hovers for menu items
-- [ ] Finishing basic functionality of index.html
+- [x] Smaller device support
+- [x] Hovers for menu items
+- [x] Finishing basic functionality of index.html
 - [ ] Contact page mockup
 - [ ] ...
 
 ## Contributors
-Kevin Veldman 
+Kevin Veldman
 Website: https://www.kevinpv.com

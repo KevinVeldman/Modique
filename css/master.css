@@ -32,10 +32,10 @@ a{
   left:0px;
   z-index: 10000;
 }
-.headText{
+#headerText{
   margin-top: 200px;
 }
- h1{
+ #headerText h1{
   line-height: 50px;
   margin:0;
   opacity: 1;
@@ -90,6 +90,10 @@ table{
 .fa-facebook:hover{
   color:white;
 }
+a{
+  -webkit-transition: color 1s; /* Safari */
+    transition: color 1s;
+}
 .fa-facebook{
   -webkit-transition: color 1s; /* Safari */
     transition: color 1s;
@@ -134,4 +138,10 @@ table{
 #navigator.navbar-default .navbar-toggle:hover .icon-bar,
 #navigator.navbar-default .navbar-toggle:focus .icon-bar {
     background-color: #0c090a;
+}
+input{
+  width: 100px;
+}
+.content{
+  margin-bottom: 20px;
 }
